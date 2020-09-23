@@ -7,7 +7,7 @@
 > During that time, I involved in implementing
  several core functionalities for [JDH-SaaS](https://ydgj.jd.com), [JDH-ERP](https://ydgj.jd.com), and A Wechat Mini Program for JDH. 
  
- > In addition to that, I worked with the Quality Assurance Team to implement a Quality Insurance Platform called QM
+ > In addition to that, I worked with the Quality Assurance Team to implement a Quality Insurance Platform called qm.jd.com
  
  Currently, I'm looking for internship for Summer 2021, if my skill fits your requirements, please contact me by email 💬
 <!--
