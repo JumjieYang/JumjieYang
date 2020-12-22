@@ -4,7 +4,7 @@
   In Summer 2020, I worked with several awesome programmers at [JD.COM](https://jd.com) as a Software Engineering Intern. 🔭
  > In particular, I joined JDH (JD Health)
  
-> During that time, I involved in implementing
+> During that time, I was involved in implementing
  several core functionalities for [JDH-SaaS](https://ydgj.jd.com), [JDH-ERP](https://ydgj.jd.com), and A Wechat Mini Program for JDH. 
  
  > In addition to that, I worked with the Quality Assurance Team to implement a Quality Insurance Platform called qm.jd.com
