@@ -7,7 +7,9 @@
 > During that time, I was involved in implementing
  several core functionalities for [JDH-SaaS](https://ydgj.jd.com), [JDH-ERP](https://ydgj.jd.com), and A Wechat Mini Program for JDH. 
  
- > In addition to that, I worked with the Quality Assurance Team to implement a Quality Insurance Platform called qm.jd.com
+ > In addition to that, I worked with the Quality Assurance Team to implement a Quality Insurance Platform called qm.jd.com.
+ 
+
   In Spring time 2021, I start my intern at [Tencent](https://www.tencent.com/en-us) as a Software Engineering Intern.🔭
  
  Currently, I'm looking for fulltime oppotunities starting 2022, if my skill fits your requirements, please contact me by email 💬
